@@ -1,45 +1,28 @@
-&#x20;\<!--
-&#x20; PERSONAL GITHUB PROFILE
-&#x20; Author: Maleesha Maddegoda
-&#x20; Theme: Black / Luminous Green / Emerald
-\-->
+&#x20;\<div align="center">
 
-\<div align="center">
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B20,100:00E676&height=220&section=header&text=MALEESHA%20MADDEGODA&fontSize=40&fontColor=E8FFF0&fontAlignY=38&desc=AI%20%26%20ML%20%7C%20FULL-STACK%20DEVELOPER&descSize=15&descColor=8CFFB0&descAlignY=58&animation=twinkling](https://capsule-render.vercel.app/api?type=waving\&color=0:050505,50:003B20,100:00E676\&height=220\&section=header\&text=MALEESHA%20MADDEGODA\&fontSize=40\&fontColor=E8FFF0\&fontAlignY=38\&desc=AI%20%26%20ML%20%7C%20FULL-STACK%20DEVELOPER\&descSize=15\&descColor=8CFFB0\&descAlignY=58\&animation=twinkling)" alt="Animated green header" />
 
-\<!-- ANIMATED HEADER -->
-
-\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:020604,40:064E24,75:00C853,100:020604&height=220&section=header&text=MALEESHA%20MADDEGODA&fontSize=39&fontColor=CAFFD5&fontAlignY=38&desc=AI%20%26%20ML%20%7C%20SOFTWARE%20ENGINEERING&descSize=14&descColor=7CFF9B&descAlignY=57&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:020604,40:064E24,75:00C853,100:020604\&height=220\&section=header\&text=MALEESHA%20MADDEGODA\&fontSize=39\&fontColor=CAFFD5\&fontAlignY=38\&desc=AI%20%26%20ML%20%7C%20SOFTWARE%20ENGINEERING\&descSize=14\&descColor=7CFF9B\&descAlignY=57\&animation=fadeIn)" />
-
-\<!-- ANIMATED INTRO -->
-
-\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=52FF91&center=true&vCenter=true&width=650&height=55&lines=Exploring+Artificial+Intelligence+%F0%9F%A4%96;Building+Machine+Learning+Solutions+%F0%9F%A7%A0;Engineering+Modern+Software+%F0%9F%92%BB;Turning+Ideas+Into+Real+Applications+%E2%9A%A1](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=19\&duration=3000\&pause=1000\&color=52FF91\&center=true\&vCenter=true\&width=650\&height=55\&lines=Exploring+Artificial+Intelligence+%F0%9F%A4%96;Building+Machine+Learning+Solutions+%F0%9F%A7%A0;Engineering+Modern+Software+%F0%9F%92%BB;Turning+Ideas+Into+Real+Applications+%E2%9A%A1)" alt="Animated introduction" />
+\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00E676&center=true&vCenter=true&width=650&height=55&lines=AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Full-Stack+Software+Developer;Always+Learning.+Always+Building](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=20\&duration=2800\&pause=900\&color=00E676\&center=true\&vCenter=true\&width=650\&height=55\&lines=AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Full-Stack+Software+Developer;Always+Learning.+Always+Building)." alt="Animated typing introduction" />
 
 \<br/>
 
-\<a href="[https://maleesha-maddegoda.vercel.app/](https://maleesha-maddegoda.vercel.app/)">
-\<img src="[https://img.shields.io/badge/PORTFOLIO-00E676?style=for-the-badge&logo=vercel&logoColor=black](https://img.shields.io/badge/PORTFOLIO-00E676?style=for-the-badge\&logo=vercel\&logoColor=black)" />
-\</a>
-\<a href="[https://www.linkedin.com/in/maleesha-maddegoda/](https://www.linkedin.com/in/maleesha-maddegoda/)">
-\<img src="[https://img.shields.io/badge/LINKEDIN-00C853?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LINKEDIN-00C853?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
-\</a>
-\<a href="[https://github.com/maleesha-maddegoda](https://github.com/maleesha-maddegoda)">
-\<img src="[https://img.shields.io/badge/GITHUB-101B14?style=for-the-badge&logo=github&logoColor=52FF91](https://img.shields.io/badge/GITHUB-101B14?style=for-the-badge\&logo=github\&logoColor=52FF91)" />
-\</a>
+\<a href="[https://maleesha-maddegoda.vercel.app/](https://maleesha-maddegoda.vercel.app/)">   \<img src="[https://img.shields.io/badge/PORTFOLIO-00E676?style=for-the-badge&logo=vercel&logoColor=black](https://img.shields.io/badge/PORTFOLIO-00E676?style=for-the-badge\&logo=vercel\&logoColor=black)" alt="Portfolio" /> \</a> \<a href="[https://www.linkedin.com/in/maleesha-maddegoda/](https://www.linkedin.com/in/maleesha-maddegoda/)">   \<img src="[https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00E676](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge\&logo=linkedin\&logoColor=00E676)" alt="LinkedIn" /> \</a> \<a href="[https://github.com/maleesha-maddegoda](https://github.com/maleesha-maddegoda)">   \<img src="[https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=00E676](https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge\&logo=github\&logoColor=00E676)" alt="GitHub" /> \</a>
 
 \<br/>\<br/>
 
-\<img src="[https://komarev.com/ghpvc/?username=maleesha-maddegoda&style=flat-square&color=00C853&label=PROFILE+VISITORS](https://komarev.com/ghpvc/?username=maleesha-maddegoda\&style=flat-square\&color=00C853\&label=PROFILE+VISITORS)" />
+\<img src="[https://komarev.com/ghpvc/?username=maleesha-maddegoda&style=flat-square&color=00E676&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=maleesha-maddegoda\&style=flat-square\&color=00E676\&label=PROFILE+VIEWS)" alt="Profile views" />
 
 \</div>
 
 ---
 
-## `01` / WHO AM I?
+## `01` — ABOUT ME
 
 ```yaml
 name: Maleesha Maddegoda
+location: Sri Lanka
 
-identity:
+role:
   - AI & ML Undergraduate
   - Aspiring AI & ML Engineer
   - Full-Stack Developer
@@ -51,8 +34,6 @@ education:
   started: 2024
   expected_graduation: 2028
 
-location: Sri Lanka
-
 interests:
   - Artificial Intelligence
   - Machine Learning
@@ -60,129 +41,112 @@ interests:
   - Software Engineering
   - Intelligent Applications
 
-currently_focused_on:
-  - Developing practical AI/ML solutions
-  - Strengthening software engineering skills
-  - Exploring intelligent systems
-  - Building and learning through personal projects
-
-career_goal: Growing into an AI & ML Engineer
+mindset: Learn continuously. Build consistently. Improve relentlessly.
 ```
 
-I'm an Information Technology undergraduate specializing in Artificial Intelligence, passionate about exploring the intersection of intelligent systems, machine learning, and software engineering.
+I'm an Information Technology undergraduate specializing in Artificial Intelligence, interested in building intelligent solutions and modern software applications.
 
-I enjoy understanding how technologies work, experimenting with new ideas, and transforming theoretical knowledge into practical applications.
-
-My journey is driven by continuous learning, problem-solving, and building technology that creates meaningful impact.
+I enjoy exploring new technologies, strengthening my technical foundations, and turning ideas into practical applications.
 
 ---
 
-## `02` / TECHNICAL ARSENAL
+## `02` — TECHNOLOGY STACK
 
 \<div align="center">
 
-### ◈ Programming Languages
+**Programming Languages**
 
-\<img src="[https://skillicons.dev/icons?i=python,java,js,cs,html,css&theme=dark](https://skillicons.dev/icons?i=python,java,js,cs,html,css\&theme=dark)" />
+\<img src="[https://skillicons.dev/icons?i=python,java,js,cs,html,css&theme=dark](https://skillicons.dev/icons?i=python,java,js,cs,html,css\&theme=dark)" alt="Programming languages" />
 
-### ◈ AI / Machine Learning / Data Science
+\<br/>\<br/>
 
-\<img src="[https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow&theme=dark](https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow\&theme=dark)" />
+**AI, Machine Learning & Data Science**
 
-\<img src="[https://img.shields.io/badge/Pandas-00E676?style=flat-square&logo=pandas&logoColor=black](https://img.shields.io/badge/Pandas-00E676?style=flat-square\&logo=pandas\&logoColor=black)" />
-\<img src="[https://img.shields.io/badge/NumPy-39FFB6?style=flat-square&logo=numpy&logoColor=black](https://img.shields.io/badge/NumPy-39FFB6?style=flat-square\&logo=numpy\&logoColor=black)" />
-\<img src="[https://img.shields.io/badge/Matplotlib-00DFA2?style=flat-square&logo=python&logoColor=black](https://img.shields.io/badge/Matplotlib-00DFA2?style=flat-square\&logo=python\&logoColor=black)" />
-\<img src="[https://img.shields.io/badge/Jupyter-00C853?style=flat-square&logo=jupyter&logoColor=black](https://img.shields.io/badge/Jupyter-00C853?style=flat-square\&logo=jupyter\&logoColor=black)" />
+\<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)" alt="Pandas" /> \<img src="[https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)" alt="NumPy" /> \<img src="[https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)" alt="Scikit-learn" /> \<img src="[https://img.shields.io/badge/Matplotlib-0A8F65?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Matplotlib-0A8F65?style=for-the-badge\&logo=python\&logoColor=white)" alt="Matplotlib" /> \<img src="[https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)" alt="Jupyter" />
 
-### ◈ Frontend Development
+\<br/>\<br/>
 
-\<img src="[https://skillicons.dev/icons?i=react,html,css,js,bootstrap&theme=dark](https://skillicons.dev/icons?i=react,html,css,js,bootstrap\&theme=dark)" />
+**Frontend & Backend**
 
-### ◈ Backend Development
+\<img src="[https://skillicons.dev/icons?i=react,dotnet,bootstrap&theme=dark](https://skillicons.dev/icons?i=react,dotnet,bootstrap\&theme=dark)" alt="Frontend and backend technologies" />
 
-\<img src="[https://skillicons.dev/icons?i=dotnet,java,nodejs&theme=dark](https://skillicons.dev/icons?i=dotnet,java,nodejs\&theme=dark)" />
+\<br/>\<br/>
 
-### ◈ Databases
+**Databases**
 
-\<img src="[https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=postgres,mysql,mongodb\&theme=dark)" />
+\<img src="[https://skillicons.dev/icons?i=postgres,mysql&theme=dark](https://skillicons.dev/icons?i=postgres,mysql\&theme=dark)" alt="Databases" />
 
-### ◈ Development Tools
+\<br/>\<br/>
 
-\<img src="[https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,postman&theme=dark](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,postman\&theme=dark)" />
+**Tools & Development**
+
+\<img src="[https://skillicons.dev/icons?i=git,github,vscode,idea,visualstudio&theme=dark](https://skillicons.dev/icons?i=git,github,vscode,idea,visualstudio\&theme=dark)" alt="Development tools" />
 
 \</div>
 
 ---
 
-## `03` / MY LEARNING PHILOSOPHY
+## `03` — MY APPROACH
 
 \<div align="center">
 
 |           EXPLORE           |          EXPERIMENT          |          ENGINEER         |
 | :-------------------------: | :--------------------------: | :-----------------------: |
-| Understand new technologies |   Test ideas and approaches  | Build practical solutions |
-|    Learn the fundamentals   | Learn through implementation |    Improve continuously   |
+| Understand the fundamentals |   Test ideas and approaches  | Build practical solutions |
+|  Discover new technologies  | Learn through implementation |    Improve continuously   |
 
 \<br/>
 
-**Learn deeply. Build consistently. Improve relentlessly.**
+**Think. Learn. Build. Repeat.**
 
 \</div>
 
 ---
 
-## `04` / GITHUB ANALYTICS
+## `04` — GITHUB ANALYTICS
 
 \<div align="center">
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=maleesha-maddegoda&show_icons=true&hide_border=true&bg_color=050B07&title_color=52FF91&icon_color=00E676&text_color=C5D8CA&ring_color=00E676](https://github-readme-stats.vercel.app/api?username=maleesha-maddegoda\&show_icons=true\&hide_border=true\&bg_color=050B07\&title_color=52FF91\&icon_color=00E676\&text_color=C5D8CA\&ring_color=00E676)" />
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=maleesha-maddegoda&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=39FF14&text_color=E6EDF3](https://github-readme-stats.vercel.app/api?username=maleesha-maddegoda\&show_icons=true\&hide_border=true\&bg_color=0D1117\&title_color=00E676\&icon_color=39FF14\&text_color=E6EDF3)" alt="GitHub statistics" />
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=maleesha-maddegoda&layout=compact&hide_border=true&bg_color=050B07&title_color=52FF91&text_color=C5D8CA&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=maleesha-maddegoda\&layout=compact\&hide_border=true\&bg_color=050B07\&title_color=52FF91\&text_color=C5D8CA\&langs_count=8)" />
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=maleesha-maddegoda&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=E6EDF3&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=maleesha-maddegoda\&layout=compact\&hide_border=true\&bg_color=0D1117\&title_color=00E676\&text_color=E6EDF3\&langs_count=8)" alt="Most used programming languages" />
 
 \<br/>\<br/>
 
-\<img width="75%" src="[https://streak-stats.demolab.com?user=maleesha-maddegoda&theme=dark&background=050B07&border=174B2A&stroke=00C853&ring=52FF91&fire=39FFB6&currStreakLabel=52FF91&sideLabels=9BC9A8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=779982](https://streak-stats.demolab.com?user=maleesha-maddegoda\&theme=dark\&background=050B07\&border=174B2A\&stroke=00C853\&ring=52FF91\&fire=39FFB6\&currStreakLabel=52FF91\&sideLabels=9BC9A8\&currStreakNum=FFFFFF\&sideNums=FFFFFF\&dates=779982)" />
+\<img width="70%" src="[https://streak-stats.demolab.com?user=maleesha-maddegoda&background=0D1117&ring=00E676&fire=39FF14&currStreakLabel=00E676&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true](https://streak-stats.demolab.com?user=maleesha-maddegoda\&background=0D1117\&ring=00E676\&fire=39FF14\&currStreakLabel=00E676\&sideLabels=E6EDF3\&currStreakNum=FFFFFF\&sideNums=FFFFFF\&dates=8B949E\&hide_border=true)" alt="GitHub contribution streak" />
+
+\<br/>\<br/>
+
+\<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=maleesha-maddegoda&bg_color=0D1117&color=00E676&line=00C853&point=FFFFFF&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=maleesha-maddegoda\&bg_color=0D1117\&color=00E676\&line=00C853\&point=FFFFFF\&area=true\&hide_border=true)" alt="GitHub contribution activity graph" />
 
 \</div>
 
 ---
 
-## `05` / CONTRIBUTION JOURNEY
+## `05` — CONNECT
 
 \<div align="center">
 
-\<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=maleesha-maddegoda&bg_color=050B07&color=52FF91&line=00C853&point=FFFFFF&area=true&hide_border=true&area_color=064E24](https://github-readme-activity-graph.vercel.app/graph?username=maleesha-maddegoda\&bg_color=050B07\&color=52FF91\&line=00C853\&point=FFFFFF\&area=true\&hide_border=true\&area_color=064E24)" />
-
-\</div>
-
----
-
-## `06` / CONNECT WITH ME
-
-\<div align="center">
-
-I'm always interested in connecting with developers, learning from others, and exploring opportunities to grow in AI, Machine Learning, and Software Engineering.
-
-\<br/>
-
-\<a href="[https://www.linkedin.com/in/maleesha-maddegoda/](https://www.linkedin.com/in/maleesha-maddegoda/)"> \<img src="[https://img.shields.io/badge/LinkedIn-Connect-00C853?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-00C853?style=for-the-badge\&logo=linkedin\&logoColor=white)" /> \</a>
-
-\<a href="[https://github.com/IT24101739](https://github.com/IT24101739)"> \<img src="[https://img.shields.io/badge/Academic_GitHub-Explore-00E676?style=for-the-badge&logo=github&logoColor=black](https://img.shields.io/badge/Academic_GitHub-Explore-00E676?style=for-the-badge\&logo=github\&logoColor=black)" /> \</a>
-
-\<a href="[https://maleesha-maddegoda.vercel.app/](https://maleesha-maddegoda.vercel.app/)"> \<img src="[https://img.shields.io/badge/Portfolio-Visit-39FFB6?style=for-the-badge&logo=vercel&logoColor=black](https://img.shields.io/badge/Portfolio-Visit-39FFB6?style=for-the-badge\&logo=vercel\&logoColor=black)" /> \</a>
-
-\<a href="[https://github.com/maleesha-maddegoda](https://github.com/maleesha-maddegoda)"> \<img src="[https://img.shields.io/badge/Personal_GitHub-Follow-52FF91?style=for-the-badge&logo=github&logoColor=black](https://img.shields.io/badge/Personal_GitHub-Follow-52FF91?style=for-the-badge\&logo=github\&logoColor=black)" /> \</a>
+I'm always open to connecting with developers, learning from others, and exploring opportunities in AI, Machine Learning, and Software Engineering.
 
 \<br/>\<br/>
 
-\<img src="[https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)" />
+\<a href="[https://www.linkedin.com/in/maleesha-maddegoda/](https://www.linkedin.com/in/maleesha-maddegoda/)">
+&#x20; \<img src="[https://img.shields.io/badge/LinkedIn-Connect-00C853?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-00C853?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="Connect on LinkedIn" />
+\</a>
+\<a href="[https://maleesha-maddegoda.vercel.app/](https://maleesha-maddegoda.vercel.app/)">
+&#x20; \<img src="[https://img.shields.io/badge/Portfolio-Explore-00E676?style=for-the-badge&logo=vercel&logoColor=black](https://img.shields.io/badge/Portfolio-Explore-00E676?style=for-the-badge\&logo=vercel\&logoColor=black)" alt="Visit portfolio" />
+\</a>
+\<a href="[https://github.com/IT24101739](https://github.com/IT24101739)">
+&#x20; \<img src="[https://img.shields.io/badge/Academic_GitHub-Explore-39FFB6?style=for-the-badge&logo=github&logoColor=black](https://img.shields.io/badge/Academic_GitHub-Explore-39FFB6?style=for-the-badge\&logo=github\&logoColor=black)" alt="Academic GitHub" />
+\</a>
 
 \<br/>\<br/>
 
-**Thanks for visiting my corner of GitHub!**
+**Thanks for visiting my GitHub profile!**
 
 *Building today. Innovating tomorrow.*
 
-\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:020604,45:064E24,100:00C853&height=110&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:020604,45:064E24,100:00C853\&height=110\&section=footer)" />
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B20,100:00E676&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:050505,50:003B20,100:00E676\&height=120\&section=footer)" alt="Green footer" />
 
 \</div>
