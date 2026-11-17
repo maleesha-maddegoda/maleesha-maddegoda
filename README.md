@@ -1,4 +1,5 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050505,50:003B20,100:00E676&amp;height=220&amp;section=header&amp;text=MALEESHA%20MADDEGODA&amp;fontSize=40&amp;fontColor=E8FFF0&amp;fontAlignY=38&amp;desc=AI%20%26%20ML%20%7C%20FULL-STACK%20DEVELOPER&amp;descSize=15&amp;descColor=8CFFB0&amp;descAlignY=58&amp;animation=fadeIn" alt="Animated green header" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=00E676&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=55&amp;lines=AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Full-Stack+Software+Developer;Always+Learning.+Always+Building." alt="Animated typing introduction" />
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=00E676&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=55&amp;lines=AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Full-Stack+Software+Developer;Always+Learning.+Always+Building." alt="Animated typing introduction" />
 <a href="https://maleesha-maddegoda.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-00E676?style=for-the-badge&amp;logo=vercel&amp;logoColor=black" alt="Portfolio" />
 </a>
@@ -68,11 +69,8 @@ Discover new technologies	Learn through implementation	Improve continuously
 
 Think. Learn. Build. Repeat.
 </div>04 — GITHUB ANALYTICS
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=maleesha-maddegoda&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00E676&amp;icon_color=39FF14&amp;text_color=E6EDF3" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maleesha-maddegoda&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00E676&amp;text_color=E6EDF3&amp;langs_count=8" alt="Most used programming languages" />
-
-
-<img width="70%" src="https://streak-stats.demolab.com?user=maleesha-maddegoda&amp;background=0D1117&amp;ring=00E676&amp;fire=39FF14&amp;currStreakLabel=00E676&amp;sideLabels=E6EDF3&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=8B949E&amp;hide_border=true" alt="GitHub contribution streak" />
+<div align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=maleesha-maddegoda&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00E676&amp;icon_color=39FF14&amp;text_color=E6EDF3" alt="GitHub statistics" />
+<br /><br /><img width="70%" src="https://streak-stats.demolab.com?user=maleesha-maddegoda&amp;background=0D1117&amp;ring=00E676&amp;fire=39FF14&amp;currStreakLabel=00E676&amp;sideLabels=E6EDF3&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=8B949E&amp;hide_border=true" alt="GitHub contribution streak" />
 
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maleesha-maddegoda&amp;bg_color=0D1117&amp;color=00E676&amp;line=00C853&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" alt="GitHub contribution activity graph" /></div>05 — CONNECT
