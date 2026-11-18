@@ -1,15 +1,29 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=00E676&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=55&amp;lines=AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Full-Stack+Software+Developer;Always+Learning.+Always+Building." alt="Animated typing introduction" />
-<a href="https://maleesha-maddegoda.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-00E676?style=for-the-badge&amp;logo=vercel&amp;logoColor=black" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/maleesha-maddegoda/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00E676" alt="LinkedIn" />
-</a>
-<a href="https://github.com/maleesha-maddegoda">
-  <img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&amp;logo=github&amp;logoColor=00E676" alt="GitHub" />
-</a>
 
+  <!-- Luminous Green Name Header -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=39FF14&text=Maleesha%20Maddegoda&height=90&fontSize=52&desc=AI%20%26%20ML%20Undergraduate%20%7C%20Full-Stack%20Developer&descSize=16&descColor=00E676&fontAlignY=45&descAlignY=75" alt="Maleesha Maddegoda" />
+
+  <!-- Animated Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00E676&center=true&vCenter=true&width=650&height=55&lines=AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Full-Stack+Software+Developer;Always+Learning.+Always+Building." alt="Animated typing introduction" />
+
+  <br />
+
+  <!-- Social & Portfolio Badges -->
+  <a href="https://maleesha-maddegoda.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00E676?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/maleesha-maddegoda/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00E676" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/maleesha-maddegoda">
+    <img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=00E676" alt="GitHub" />
+  </a>
+
+  <br /><br />
+
+  <img src="https://komarev.com/ghpvc/?username=maleesha-maddegoda&style=flat-square&color=00E676&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=maleesha-maddegoda&amp;style=flat-square&amp;color=00E676&amp;label=PROFILE+VIEWS" alt="Profile views" /></div>01 — ABOUT ME
 name: Maleesha Maddegoda
