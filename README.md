@@ -1,10 +1,12 @@
 <div align="center">
 
-  <!-- Dynamic Cyber Waving Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050806,50:003B20,100:00E676&height=180&section=header&text=Maleesha%20Maddegoda&fontSize=42&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=58&descColor=A7F3D0" alt="Maleesha Maddegoda Header" />
+  <!-- Static Neon Green Name Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=1&pause=100000&color=39FF14&center=true&vCenter=true&repeat=false&width=700&height=65&lines=Maleesha+Maddegoda" alt="Maleesha Maddegoda" />
+
+  <br />
 
   <!-- Animated Typing Subtitle -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=00E676&center=true&vCenter=true&width=750&height=50&lines=AI+%26+Machine+Learning+Undergraduate+at+SLIIT;Architecting+Deep+Learning+%26+Vision+Pipelines;NASA+Space+Apps+'26+Galactic+Problem+Solver;Building+Intelligent%2C+Production-Ready+Software;Seeking+AI+%2F+Machine+Learning+Internship+(2026)" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=900&color=00E676&center=true&vCenter=true&width=800&height=50&lines=AI+%26+Machine+Learning+Undergraduate+at+SLIIT;Architecting+Deep+Learning+%26+Vision+Pipelines;NASA+Space+Apps+'26+Galactic+Problem+Solver;Building+Intelligent+Applications;Seeking+AI+%2F+ML+Internship+(2026)" alt="Animated typing introduction" />
 
   <br />
 
@@ -88,24 +90,7 @@ mindset: "Learn continuously. Build consistently. Improve relentlessly."
 
 ---
 
-### `03 — FEATURED PROJECTS & SYSTEMS`
-
-<div align="center">
-
-| Project | Highlights & Domain | Stack | Links |
-| :--- | :--- | :--- | :---: |
-| 🛰️ **EarthScope** | **NASA-Powered Earth System Trend Analytics**<br>Analyzes and visualizes long-term satellite observations for precipitation, land surface temperature, and vegetation health using geospatial analytics. | `Python` `Geospatial AI` `Data Analytics` `Satellite APIs` | [🔗 Repo](https://github.com/IT24101739/Earth_Scope) |
-| 🌱 **AgriNova AI** | **Smart Agriculture Decision Platform**<br>AI-driven farming support system delivering intelligent crop recommendations, plant disease diagnosis, weather insights, and real-time guidance. | `JavaScript` `Machine Learning` `Node.js` `REST APIs` | [🔗 Repo](https://github.com/IT24101739/AgriNova_AI) |
-| ⚖️ **AI Legal Analyzer** | **Intelligent Document & Legal Intelligence**<br>Automated contract analysis and legal information extraction engine utilizing NLP processing techniques to parse complex documents. | `JavaScript` `NLP` `AI Assistant` `Web APIs` | [🔗 Repo](https://github.com/IT24101739/AI_Legal_Analyzer) |
-| 🌐 **Modern AI Portfolio** | **Interactive Cyber-Themed Portfolio**<br>Personal developer platform featuring dynamic command palettes, responsive dark/neon UI, Framer Motion animations, and Next.js optimization. | `Next.js 14` `TypeScript` `Tailwind CSS` `Framer Motion` | [🚀 Live](https://maleesha-maddegoda.vercel.app/) • [🔗 Repo](https://github.com/maleesha-maddegoda/Portfolio) |
-
-</div>
-
-<br />
-
----
-
-### `04 — LICENSES & CERTIFICATIONS`
+### `03 — LICENSES & CERTIFICATIONS`
 
 <div align="center">
 
@@ -124,7 +109,7 @@ mindset: "Learn continuously. Build consistently. Improve relentlessly."
 
 ---
 
-### `05 — TECHNICAL ARSENAL`
+### `04 — TECHNICAL ARSENAL`
 
 <div align="center">
 
@@ -171,7 +156,7 @@ mindset: "Learn continuously. Build consistently. Improve relentlessly."
 
 ---
 
-### `06 — ENGINEERING WORKFLOW`
+### `05 — ENGINEERING WORKFLOW`
 
 <div align="center">
 
@@ -207,7 +192,7 @@ mindset: "Learn continuously. Build consistently. Improve relentlessly."
 
 ---
 
-### `07 — GITHUB ANALYTICS`
+### `06 — GITHUB ANALYTICS`
 
 <div align="center">
 
@@ -225,7 +210,7 @@ mindset: "Learn continuously. Build consistently. Improve relentlessly."
 
 ---
 
-### `08 — GET IN TOUCH`
+### `07 — GET IN TOUCH`
 
 <div align="center">
 
@@ -252,8 +237,5 @@ mindset: "Learn continuously. Build consistently. Improve relentlessly."
   <br /><br />
 
   <p><b>Building today. Innovating tomorrow.</b></p>
-
-  <!-- Cyber Waving Footer -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050806,50:003B20,100:00E676&height=120&section=footer" alt="Cyber Footer" />
 
 </div>
